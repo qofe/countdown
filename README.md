@@ -1,6 +1,6 @@
 # Countdown exercise
 
-Make a kitchen timer.  Write a countdown() function that takes a number of seconds, and prints each second counting down to zero.
+Make a kitchen timer.  Modify the `countdown()` function in [countdown.js](countdown.js) to take a number of seconds, then print each second counting down to zero.
 
 ```javascript
 countdown(10);
